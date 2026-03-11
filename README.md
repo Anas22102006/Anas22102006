@@ -43,9 +43,8 @@
 </a>
 </p>
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=single&author=below">
 </p>
-
 ---
 
 <h2 align="center">⚙️ Languages & Tools</h2>
