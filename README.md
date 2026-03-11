@@ -80,9 +80,6 @@
 ---
 
 <h2 align="center">🏆 Competitive Programming</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anas22102006&show_icons=true&theme=tokyonight">
-</p>
 ---
 
 <h2 align="center">📅 Codeforces Activity</h2>
@@ -95,9 +92,6 @@
 
 <h2 align="center">📅 LeetCode Activity</h2>
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/anas047?theme=dark&font=Nunito&ext=contest"/>
-</p>
 
 ---
 
