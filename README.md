@@ -99,8 +99,10 @@
 ---
 
 
+<h2 align="center">Contribution Graph</h2>
+
 <p align="center">
-Solving problems daily on <b>Codeforces</b>, <b>LeetCode</b>, and <b>HackerRank</b> to sharpen algorithmic thinking.
+<img src="https://raw.githubusercontent.com/Anas22102006/Anas22102006/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
