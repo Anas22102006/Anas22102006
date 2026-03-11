@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <p align="center">
-<img src="assets/coding.gif" width="450">
+<img src="assets/coding.gif" width="600">
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=00FF7F&center=true&vCenter=true&width=650&lines=COMPUTER+SCIENCE+STUDENT;C%2B%2B+PROGRAMMER;COMPETITIVE+PROGRAMMING;DATA+STRUCTURES+%26+ALGORITHMS">
