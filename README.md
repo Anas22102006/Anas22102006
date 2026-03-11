@@ -80,6 +80,24 @@
 ---
 
 <h2 align="center">🏆 Competitive Programming</h2>
+---
+
+<h2 align="center">📅 Codeforces Activity</h2>
+
+<p align="center">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=anas_usman_ali&theme=tokyonight"/>
+</p>
+
+---
+
+<h2 align="center">📅 LeetCode Activity</h2>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/anas047?theme=dark&font=Nunito&ext=contest"/>
+</p>
+
+---
+
 
 <p align="center">
 Solving problems daily on <b>Codeforces</b>, <b>LeetCode</b>, and <b>HackerRank</b> to sharpen algorithmic thinking.
