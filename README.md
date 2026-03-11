@@ -87,6 +87,9 @@
 <p align="center">
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=anas_usman_ali&theme=tokyonight"/>
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Anas22102006&show_icons=true&theme=tokyonight">
+</p>
 
 ---
 
