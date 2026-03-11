@@ -26,24 +26,24 @@
 <h3 align="left">🌐 Connect with me</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/anas-usamn-ali" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://linkedin.com/in/anas-usamn-ali" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://codeforces.com/profile/anas_usman_ali" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="40" />
+<a href="https://codeforces.com/profile/anas_usman_ali" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="40"/>
 </a>
 
-<a href="https://leetcode.com/anas047" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+<a href="https://leetcode.com/anas047" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
 </a>
 
-<a href="https://www.hackerrank.com/anzari22102006" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
+<a href="https://www.hackerrank.com/anzari22102006" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
 </a>
 
-<a href="https://www.topcoder.com/members/606202" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/topcoder.svg" height="40"/>
+<a href="https://www.topcoder.com/members/606202" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/topcoder.svg" height="40"/>
 </a>
 </p>
 
