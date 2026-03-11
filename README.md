@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;C%2B%2B%20Programmer;Competitive%20Programming;Data%20Structures%20%26%20Algorithms&center=true&width=520&height=40">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=2500&pause=1200&color=00FF7F&center=true&vCenter=true&width=650&lines=COMPUTER+SCIENCE+STUDENT;C%2B%2B+PROGRAMMER;COMPETITIVE+PROGRAMMING;DATA+STRUCTURES+%26+ALGORITHMS">
 </p>
 
 <p align="center">
