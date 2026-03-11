@@ -99,11 +99,3 @@
 ---
 
 
-<h2 align="center">Contribution Graph</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Anas22102006/Anas22102006/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
