@@ -1,107 +1,77 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">CSE Student | C++ Developer | Competitive Programmer | Aspiring Software Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B%20Programmer;Competitive%20Programmer;Learning%20Data%20Structures%20%26%20Algorithms;Future%20Software%20Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=550&lines=CSE+Student;C%2B%2B+Developer;Competitive+Programmer;Future+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Anas22102006&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Anas22102006&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<ul>
-<li>🎓 Computer Science Engineering Student</li>
-<li>💻 Competitive Programmer</li>
-<li>🌱 Currently learning <b>Data Structures & Algorithms</b></li>
-<li>🚀 Aspiring <b>Software Engineer</b></li>
-<li>📫 Reach me at <b>anzari22102006@gmail.com</b></li>
-</ul>
+<p align="center">
+🎓 CSE Student<br>
+💻 Passionate about Competitive Programming<br>
+🌱 Currently learning <b>Data Structures & Algorithms</b><br>
+🚀 Working towards becoming a <b>Top Software Engineer</b>
+</p>
 
 ---
-<p align="center">
-  <b>Let's connect and grow together 🚀</b>
-</p>
-<h3 align="left">🌐 Connect with me</h3>
 
-<p align="left">
-<a href="https://linkedin.com/in/anas-usamn-ali" target="_blank">
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://linkedin.com/in/anas-usamn-ali">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/anas_usman_ali" target="_blank">
+<a href="https://codeforces.com/profile/anas_usman_ali">
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/anas047" target="_blank">
+<a href="https://leetcode.com/anas047">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.hackerrank.com/anzari22102006" target="_blank">
+<a href="https://www.hackerrank.com/anzari22102006">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 </p>
----
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-<p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=java" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-</a>
-
-<a href="https://flutter.dev" target="_blank">
-<img src="https://skillicons.dev/icons?i=flutter" height="40"/>
-</a>
-
-<a href="https://dart.dev" target="_blank">
-<img src="https://skillicons.dev/icons?i=dart" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=postman" height="40"/>
-</a>
-</p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h2 align="center">⚙️ Languages & Tools</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anas22102006&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas22102006&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,dart,flutter,git,mysql,postman,vscode" />
 </p>
 
 ---
 
-<h3 align="left">🔥 GitHub Streak</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas22102006&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anas22102006&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas22102006&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<h3 align="left">📈 GitHub Activity</h3>
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas22102006&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anas22102006&theme=tokyo-night"/>
@@ -109,6 +79,15 @@
 
 ---
 
+<h2 align="center">🏆 Competitive Programming</h2>
+
 <p align="center">
-⭐ From <b>Anas</b>
+Solving problems daily on <b>Codeforces</b>, <b>LeetCode</b>, and <b>HackerRank</b> to sharpen algorithmic thinking.
 </p>
+
+---
+
+<p align="center">
+⭐ <b>Thanks for visiting my profile!</b>
+</p>
+
