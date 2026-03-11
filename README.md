@@ -22,31 +22,32 @@
 </ul>
 
 ---
-
+<p align="center">
+  <b>Let's connect and grow together 🚀</b>
+</p>
 <h3 align="left">🌐 Connect with me</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/anas-usamn-ali" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://codeforces.com/profile/anas_usman_ali" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="40"/>
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/anas047" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.hackerrank.com/anzari22102006" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://www.topcoder.com/members/606202" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/topcoder.svg" height="40"/>
+<img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white"/>
 </a>
 </p>
-
 ---
 
 <h3 align="left">🛠 Languages and Tools</h3>
