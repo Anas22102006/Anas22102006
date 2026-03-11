@@ -43,10 +43,6 @@
 <a href="https://www.hackerrank.com/anzari22102006" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
-<a href="https://www.topcoder.com/members/606202" target="_blank">
-<img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white"/>
-</a>
 </p>
 ---
 
