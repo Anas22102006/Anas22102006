@@ -81,9 +81,15 @@
 
 <h2 align="center">📅 Codeforces Activity</h2>
 
-<p align="center">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=anas_usman_ali&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CF_USERNAME&theme=dark" />
+
+<br><br>
+
+<img src="https://codeforces-readme-stats.vercel.app/api/heatmap?username=YOUR_CF_USERNAME&theme=dark" />
+
+</div>
 
 ---
 
