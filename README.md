@@ -77,11 +77,9 @@
 ---
 
 <h2 align="center">🏆 Competitive Programming</h2>
----
 
 <h2 align="center">📅 Codeforces Activity</h2>
 
-## 📊 Codeforces Activity
 
 <div align="center">
 
@@ -89,7 +87,6 @@
 
 <br><br>
 
-<img src="https://codeforces-readme-streak-stats.vercel.app/?user=Anas_Usman_Ali&theme=dark" />
 
 </div>
 
