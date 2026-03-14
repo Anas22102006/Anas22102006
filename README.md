@@ -83,13 +83,14 @@
 
 <div align="center">
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CF_USERNAME&theme=dark" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Anas_Usman_Ali&theme=dark" />
 
 <br><br>
 
-<img src="https://codeforces-readme-stats.vercel.app/api/heatmap?username=YOUR_CF_USERNAME&theme=dark" />
+<img src="https://codeforces-readme-stats.vercel.app/api/heatmap?username=Anas_Usman_Ali&theme=dark" />
 
 </div>
+
 
 ---
 
