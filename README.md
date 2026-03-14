@@ -89,7 +89,7 @@
 
 <br><br>
 
-<img src="https://codeforces-readme-stats.vercel.app/api/heatmap?username=Anas_Usman_Ali&theme=dark" />
+<img src="https://codeforces-readme-streak-stats.vercel.app/?user=Anas_Usman_Ali&theme=dark" />
 
 </div>
 
