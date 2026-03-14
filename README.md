@@ -88,6 +88,12 @@
 ---
 
 <h2 align="center">📅 LeetCode Activity</h2>
+## 🧠 LeetCode Activity
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/anas047?theme=dark&font=Karma&ext=activity)
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/anas047?theme=dark&font=Karma&ext=heatmap)
+
 
 
 ---
